@@ -1,4 +1,4 @@
-=== Fragmention ===
+=== Fragmention WP ===
 Contributors: cconover
 Donate link: https://christiaanconover.com/code/wp-fragmention
 Tags: fragmention, link, javascript
@@ -12,7 +12,7 @@ Add support for [Fragmention](https://medium.com/p/41ef2be9953f) links to WordPr
 
 == Description ==
 
-Fragmentions for WordPress is a plugin to add Jonathan Neal's [Fragmentions script](https://github.com/chapmanu/fragmentions) to WordPress.
+WP Fragmentio is a plugin to add Jonathan Neal's [Fragmentions script](https://github.com/chapmanu/fragmentions) to WordPress.
 
 == Installation ==
 

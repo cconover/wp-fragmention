@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Fragmention
+ * Plugin Name: WP Fragmention
  * Plugin URI: https://christiaanconover.com/code/wp-fragmention?ref=plugin-data
  * Description: Add support for Fragmention links to WordPress.
  * Version: 0.1.0
@@ -19,7 +19,7 @@
 class Fragmention {
 	// Plugin constants
 	const ID = 'cc-fragmention'; // Plugin ID
-	const NAME = 'Fragmention'; // Plugin name
+	const NAME = 'Fragmention '; // Plugin name
 	const VERSION = '0.1.0'; // Plugin version
 	const WPVER = '2.7'; // Minimum version of WordPress required for this plugin
 	const PREFIX = 'cc_fragmention_'; // Plugin database/method prefix
