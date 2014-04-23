@@ -4,7 +4,7 @@ Donate link: https://christiaanconover.com/code/wp-fragmention
 Tags: fragmention, link, javascript
 Requires at least: 2.7
 Tested up to: 3.9
-Stable tag: 0.1.0
+Stable tag: 0.1.1
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,7 +12,7 @@ Add support for [Fragmention](https://medium.com/p/41ef2be9953f) links to WordPr
 
 == Description ==
 
-WP Fragmentio is a plugin to add Jonathan Neal's [Fragmentions script](https://github.com/chapmanu/fragmentions) to WordPress.
+WP Fragmention is a plugin to add Jonathan Neal's [Fragmentions script](https://github.com/chapmanu/fragmentions) to WordPress.
 
 == Installation ==
 
