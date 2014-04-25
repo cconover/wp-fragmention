@@ -4,7 +4,7 @@ Donate link: https://christiaanconover.com/code/wp-fragmention
 Tags: fragmention, link, javascript
 Requires at least: 2.7
 Tested up to: 3.9
-Stable tag: 0.1.1
+Stable tag: 0.1.2
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -32,6 +32,9 @@ Nope. Just activate the plugin and go. No configuration needed.
 
 == Upgrade Notice ==
 
+= 0.1.2 =
+Updated to the latest version of the Fragmention script.
+
 = 0.1.1 =
 Added styling for fragmentions.
 
@@ -41,7 +44,7 @@ Initial release.
 == Changelog ==
 
 = 0.1.2 =
-Fixed readme.txt with expanded description and the proper plugin m
+Updated to the latest version of the Fragmention script. Fixed readme.txt with expanded description and the proper plugin name.
 
 = 0.1.1 =
 When a fragmention link is used, the relevant block of text is now highlighted in the page.

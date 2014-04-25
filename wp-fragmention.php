@@ -3,7 +3,7 @@
  * Plugin Name: WP Fragmention
  * Plugin URI: https://christiaanconover.com/code/wp-fragmention?ref=plugin-data
  * Description: Add support for Fragmention links to WordPress.
- * Version: 0.1.1
+ * Version: 0.1.2
  * Author: Christiaan Conover
  * Author URI: https://christiaanconover.com?ref=wp-fragmention-plugin-author-uri
  * License: GPLv2
