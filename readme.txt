@@ -14,7 +14,7 @@ Add support for Fragmention links to WordPress.
 
 WP Fragmention is a plugin to add Jonathan Neal's [Fragmentions script](https://github.com/chapmanu/fragmentions) to WordPress.
 
-[Fragmention](http://www.kevinmarks.com/fragmentions.html##I+suggest+using+a+double+hash) is a method of linking to any text in a web page proposed by Kevin Marks. It uses a double hash syntax appended to a URL with the text following the two hash marks, using plus symbols to replace spaces. For example:
+[Fragmention](http://www.kevinmarks.com/fragmentions.html) is a method of linking to any text in a web page proposed by Kevin Marks. It uses a double hash syntax appended to a URL with the text following the two hash marks, using plus symbols to replace spaces. For example:
 
 [http://www.kevinmarks.com/fragmentions.html##I+suggest+using+a+double+hash](http://www.kevinmarks.com/fragmentions.html##I+suggest+using+a+double+hash)
 
@@ -32,10 +32,19 @@ Nope. Just activate the plugin and go. No configuration needed.
 
 == Upgrade Notice ==
 
+= 0.1.1 =
+Added styling for fragmentions.
+
 = 0.1.0 =
 Initial release.
 
 == Changelog ==
+
+= 0.1.2 =
+Fixed readme.txt with expanded description and the proper plugin m
+
+= 0.1.1 =
+When a fragmention link is used, the relevant block of text is now highlighted in the page.
 
 = 0.1.0 =
 Initial release.
