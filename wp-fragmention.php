@@ -40,10 +40,6 @@ class Fragmention {
 			// Admin initialization
 			$this->admin_initialize();
 			
-			/* Hooks and filters */
-			add_action( 'admin_menu', array( &$this, 'options_menu' ) ); // Add menu entry to Settings menu
-			add_action( 'admin_init', array( &$this, 'options_init' ) ); // Initialize plugin options
-			
 			// Activation and deactivation hooks
 			register_activation_hook( __FILE__, array( &$this, 'activate' ) ); // Plugin activation
 			register_deactivation_hook( __FILE__, array( &$this, 'deactivate' ) ); // Plugin deactivation
