@@ -32,6 +32,9 @@ Nope. Just activate the plugin and go. No configuration needed.
 
 == Upgrade Notice ==
 
+= 0.1.3 =
+Updated to the latest version of the Fragmention script, which fixes an issue parsing the second hashmark.
+
 = 0.1.2 =
 Updated to the latest version of the Fragmention script.
 
@@ -42,6 +45,9 @@ Added styling for fragmentions.
 Initial release.
 
 == Changelog ==
+
+= 0.1.3 =
+Updated to the latest version of the Fragmention script, which fixes an issue parsing the second hashmark.
 
 = 0.1.2 =
 Updated to the latest version of the Fragmention script. Fixed readme.txt with expanded description and the proper plugin name.
