@@ -27,8 +27,8 @@ This removes the need for site developers to hard-code ID attributes into their 
 
 == Frequently Asked Questions ==
 
-= What's the "tooltip" feature? =
-Fragmention links, while an awesome solution to linking within a page, can be a bit cumbersome for a human to create. The tooltip makes it easy, appearing when a user highlights text on a page to provide them with the fragmention link for that text.
+= Are the any plugin options? =
+Nope. Just activate the plugin and go. No configuration needed.
 
 == Upgrade Notice ==
 
