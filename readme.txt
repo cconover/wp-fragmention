@@ -4,7 +4,7 @@ Donate link: https://christiaanconover.com/code/wp-fragmention
 Tags: fragmention, link, javascript
 Requires at least: 2.7
 Tested up to: 3.9
-Stable tag: 0.1.3
+Stable tag: 0.1.4
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -32,6 +32,9 @@ Nope. Just activate the plugin and go. No configuration needed.
 
 == Upgrade Notice ==
 
+= 0.1.4 =
+Minified version of the Fragmention script is now used.
+
 = 0.1.3 =
 Updated to the latest version of the Fragmention script, which fixes an issue parsing the second hashmark.
 
@@ -45,6 +48,9 @@ Added styling for fragmentions.
 Initial release.
 
 == Changelog ==
+
+= 0.1.4 =
+Latest version of the Fragmention script, including a minified version.
 
 = 0.1.3 =
 Updated to the latest version of the Fragmention script, which fixes an issue parsing the second hashmark.
